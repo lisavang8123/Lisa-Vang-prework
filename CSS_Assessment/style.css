@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  vertical-align: middle;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 20px;
+  color: #333;
+  background: #818081;
+}
+
+
+#left {
+  margin-bottom: 100px;
+  float: left;
+  padding: 115px;
+  width: 50%;
+  color: black;
+  background: blue;
+}
+
+#right {
+  padding: 115px;
+  width: 25%;
+  float: right;
+  color: black;
+  background: red;
+}
+  
+footer {
+  clear: both;
+  background: green;
+}
